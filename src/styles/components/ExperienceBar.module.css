@@ -18,6 +18,7 @@
 
 .experienceBar > div > div {
     height: 100%;
+    width: 0%;
     border-radius: 4px;
     background: var(--green);
 }
